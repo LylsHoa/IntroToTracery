@@ -1,0 +1,109 @@
+{
+	"name": [
+		"Lani",
+		"Albert",
+		"Frank",
+		"Winston",
+		"Frances",
+		"William"
+	],
+	"occupation": [
+		"DJ",
+		"gamer",
+		"paint watcher",
+		"surgeon",
+		"programmer",
+		"ASMRist"
+	],
+	"always": [
+		"always",
+		"never",
+		"rarely",
+		"inevitably",
+		"unfailingly"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		"awaiting"
+	],
+	"thing": [
+		"pregnancy",
+		"drama",
+		"scandal",
+		"heartbreak",
+		"abuse"
+	],
+	"adjective": [
+		"ugly",
+		"weird",
+		"neutral",
+		"beautiful",
+		"strange",
+		"crazy"
+	],
+	"people": [
+		"People",
+		"Adults",
+		"Kids",
+		"Parents",
+		"Audiences",
+		"Ladies",
+		"Gentlemen"
+	],
+	"everywhere": [
+		"everywhere",
+		"worldwide",
+		"nationwide",
+		"globally"
+	],
+	"place": [
+		"California",
+		"India",
+		"Nepal",
+		"Vietnam",
+		"Russia",
+		"Canada",
+		"Florida",
+		"Kyoto",
+		"The Bay",
+		"Japan",
+		"America"
+	],
+	"emotion": [
+		"emotional",
+		"confused",
+		"disgusted",
+		"in awe",
+		"taken aback",
+		"proud"
+	],
+	"site1": [
+		"news",
+		"report",
+		"story",
+		"broadcast"
+	],
+	"number": [
+		"1",
+		"2",
+		"3",
+		"4",
+		"5",
+		"6",
+		"7",
+		"8",
+		"9",
+		"0"
+	],
+	"end": [
+		"com",
+		"net",
+		"org",
+		"gov"
+	],
+	"origin": [
+		"#name# a #occupation#, was #always# #expecting# this...#adjective# #thing#!? #people# #everywhere# from #place# to #place# are #emotion#! : https://www.#site1##number##number##number##site1#.#end#"
+	]
+}
